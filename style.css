@@ -1,0 +1,36 @@
+body {
+  font-family: Caveat;
+  background: #f8f8f8;
+  color: #000;
+  text-align: left;
+  font-size: 24px;
+  font-style: normal;
+}
+
+h1 {
+  font-size: 128px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 32px;
+  font-style: italic;
+}
+
+.button {
+  text-align: center;
+}
+
+.button a {
+  color: #ff0000;
+}
+
+#gallery {
+  text-align: center;
+}
+
+#gallery img {
+  width: 60%;
+  padding: 1em;
+  border: 1px solid #ccc;
+}
